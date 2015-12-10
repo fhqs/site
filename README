@@ -1,0 +1,9 @@
+FHQS - Anti-social networking site
+----------------------------------
+
+You want to contribute to an open-source anti-social network site?
+Then feel free to join FHQS and help us.  These are the rules:
+
+1. Improve the design
+2. It's anti-social network so try to screw the users over
+3. You can use a MongoDB database called "nufx".  Your software should be able to start from an empty database
